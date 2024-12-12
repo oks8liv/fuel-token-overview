@@ -1,4 +1,4 @@
-# Allocation 
+# Allocation
 
 ![allocation](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/allocation.png)
 

@@ -1,4 +1,4 @@
-## The Role of Fuel
+## The Role of FUEL
 
 Fuel’s shared sequencer network, powered by the Cosmos SDK, is designed to enable seamless cross-chain interactions. Holders of the Fuel token can actively participate in securing the network by staking or delegating their tokens to trusted validators within the Fuel ecosystem.
 
