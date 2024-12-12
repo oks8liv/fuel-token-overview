@@ -1,6 +1,6 @@
 # Unlocks
 
-TODO: Insert image
+![unlocks](https://raw.githubusercontent.com/FuelLabs/fuel-token-overview/refs/heads/main/assets/unlocks.png)
 
 Fuel will launch with an initial total supply of 10 billion FUEL tokens. These tokens will be allocated to various groups, each following its own unlock schedule. During the release period, locked tokens cannot still be staked unless specified otherwise. Any staking rewards earned during this time will be immediately unlocked.
 
