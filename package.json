@@ -1,0 +1,16 @@
+{
+    "name": "fuel-token-overview",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "lint:check": "markdownlint --config .markdownlint.yaml docs/**/*",
+        "lint:fix": "markdownlint --config .markdownlint.yaml 'breaking-changes-log.md' --fix"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "markdownlint-cli": "^0.41.0"
+    }
+}
