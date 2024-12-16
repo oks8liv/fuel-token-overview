@@ -6,3 +6,11 @@ SDK
 aa
 bb
 activations
+Ethereum
+SVM
+EVM
+Tokenomics
+undelegate
+Undelegate
+mainnet
+Mainnet
